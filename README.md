@@ -1,4 +1,4 @@
-![Welcome Cover](https://www.dropbox.com/s/qok7lw61ukbvy3h/1681600407706.jpeg?raw=true)
+![Welcome Cover](./assets/WelcomeBanner.png)
 
 Hey 👋🏾
 
