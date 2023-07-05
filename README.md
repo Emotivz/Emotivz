@@ -10,6 +10,7 @@ I'm Michael, a Product Operations Specialist turned Software Engineer. Highly mo
 
 [![MixConnect Card](https://github-readme-stats-plum-two-24.vercel.app/api/pin/?username=emotivz&repo=mixconnect)](https://github.com/Emotivz/mixconnect)
 [![Marafun Card](https://github-readme-stats-plum-two-24.vercel.app/api/pin/?username=emotivz&repo=marafun)](https://github.com/Emotivz/marafun)
+[![Event Master Client Card](https://github-readme-stats-plum-two-24.vercel.app/api/pin/?username=emotivz&repo=Liam-Michael-EventMaster-Client)](https://github.com/Emotivz/Liam-Michael-EventMaster-Client)
 [![Event Master Server Card](https://github-readme-stats-plum-two-24.vercel.app/api/pin/?username=emotivz&repo=Liam-Michael-EventMaster-Server)](https://github.com/Emotivz/Liam-Michael-EventMaster-Server)
 
 ## 📈 GitHub Stats
